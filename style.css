@@ -638,5 +638,14 @@ footer i:hover{
     .maps {
         width: 100%;
     }
+    .second-content{
+        width: 100%;
+    }
+    .second-content-text{
+        width: auto;
+    }
+    .top-icon i{
+        font-size: 2rem;
+    }
 
 }
